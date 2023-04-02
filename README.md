@@ -6,7 +6,7 @@
 
 <h3>Projeto realizado no Evento Nex Level Week da Rocketseat</h3>
 
-[ Clique aqui para acessar](https://nlw-rocket-db9fdd.netlify.app/)
+[ Clique aqui para acessar]([https://nlw-rocket-db9fdd.netlify.app/](https://projeto-e-sports-rocketseat.vercel.app/))
 
 ## Tecnologias 
 
